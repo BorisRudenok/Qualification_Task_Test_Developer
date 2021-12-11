@@ -1,0 +1,1 @@
+before starting the test, enter your login and password in the testData file
